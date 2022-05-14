@@ -16,3 +16,6 @@ Collaborators: If others have contributed to your project in any way, it is impo
 License: It’s also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use this guide to help you choose a license.
 
 Keep README’s brief but detailed. README should always be up-to-date and self-explanatory. If you have spent a lot of time on your project, you should also spend a good chunk of time on the README. It can help your future self as well when you step away for a while and need to get reacquainted with your project. Not to mention it’ll leave a positive impression on future interviewers who look at your GitHub profile.
+
+Cheat Sheet
+https://education.github.com/git-cheat-sheet-education.pdf
